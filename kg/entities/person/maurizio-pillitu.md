@@ -6,7 +6,9 @@ title: Maurizio Pillitu
 
 CTO at [[FINOS]] (also CEO at Session Technologies). GitHub handle: @maoo. Created
 the TOC member-onboarding checklist issue (#105) — administrative process for
-integrating new [[Technical Oversight Committee]] members.
+integrating new [[Technical Oversight Committee]] members. Also a top contributor to
+[[GitProxy]] (FINOS Git push-protection framework).
 
 Source: https://github.com/finos/technical-oversight-committee/issues/105,
-https://www.finos.org/maurizio-pillitu
+https://www.finos.org/maurizio-pillitu,
+https://api.github.com/repos/finos/git-proxy/contributors
