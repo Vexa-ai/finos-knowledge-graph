@@ -9,6 +9,6 @@ title: Maranda Harris
 Officer of [[CompliLedger]]. 14+ years cybersecurity/compliance/risk management
 across government and regulated industries (NIST, FedRAMP, SOC 2, ISO 27001, PCI
 DSS, HIPAA, digital asset regs). Interests: AI governance frameworks, cross-firm
-interoperability, Common Domain Model alignment, compliance automation standards.
+interoperability, [[Common Domain Model]] alignment, compliance automation standards.
 
 Source: https://github.com/finos/technical-oversight-committee/issues/280

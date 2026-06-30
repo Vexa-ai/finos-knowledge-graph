@@ -4,7 +4,7 @@ id: juan-escalada
 title: Juan Escalada
 ---
 
-OSS Engineer at [[G-Research]]; GitProxy maintainer (Osaka, Japan). #2 contributor
+OSS Engineer at [[G-Research]]; [[GitProxy]] maintainer (Osaka, Japan). #2 contributor
 on finos/git-proxy (1,188 contributions). GitHub: @jescalada.
 
 Source: https://api.github.com/users/jescalada,
