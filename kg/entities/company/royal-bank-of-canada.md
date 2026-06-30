@@ -4,4 +4,6 @@ id: royal-bank-of-canada
 title: Royal Bank of Canada
 ---
 
-[[FINOS]] member company. Employer of TOC member [[Elspeth Minty]].
+[[FINOS]] member company. Employer of TOC member [[Elspeth Minty]] and TOC
+candidate [[Erick Bourgeois]] (Director, Head of Kubernetes Platform Engineering
+at RBC Capital Markets; candidacy issue #278).
