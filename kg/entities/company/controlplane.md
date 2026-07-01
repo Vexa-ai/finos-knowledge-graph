@@ -5,6 +5,8 @@ title: ControlPlane
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Cybersecurity consulting firm specializing in Kubernetes/cloud-native/OSS
+security — threat modeling, penetration testing, supply-chain security, and
+compliance advisory. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://control-plane.io

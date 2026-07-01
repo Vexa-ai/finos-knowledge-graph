@@ -5,6 +5,7 @@ title: Syntasso
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Coordinates infrastructure tools into a unified, self-service internal
+developer platform with built-in governance. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.syntasso.io

@@ -5,6 +5,6 @@ title: Elgin White
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Wealth and asset management consultancy. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.elginwhite.com

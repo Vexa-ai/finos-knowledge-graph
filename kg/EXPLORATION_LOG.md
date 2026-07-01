@@ -277,3 +277,22 @@ company affiliations — none previously in the graph. Created:
 
 This closes the last open thread from the DTCC deep dive (pass 12). Verified
 graph integrity clean after this pass (see verification command below).
+
+## Pass 17: final round of company-stub descriptions (2026-07-01)
+
+Enriched 10 more bare stubs: Artian, Elgin White, EQTY Lab, JUXT, Summit58,
+Syntasso, BrightQuery (homepage meta descriptions), plus successfully
+resolved the three previously-skipped ambiguous ones via WebFetch (which
+extracts real page content rather than relying on raw meta tags, avoiding the
+earlier `controlplane.com`-vs-`control-plane.io` domain mix-up): ControlPlane
+(Kubernetes/cloud-native security consulting), Container Solutions
+(cloud-native engineering consulting), Regnosys (low-code regulatory-reporting
+platform). Caught and self-corrected one drafting slip: an initial Regnosys
+description speculated an unlinked "likely related to Common Domain Model"
+connection with no citation — removed immediately as ungrounded speculation,
+consistent with the no-invention rule.
+
+**Remaining bare stubs (~6, likely low-yield)**: ACTUS, Ayodo, Crafty
+Penguins, elevenai, ESOP, OpenFinity — smaller/harder-to-find vendors; fine to
+leave bare going forward rather than force weak fetches. The company-stub-
+description class is now effectively exhausted.
