@@ -145,3 +145,31 @@ person↔company link (e.g. do any newly added Associate/Silver members already
 appear as an employer elsewhere in the graph — spot check before assuming);
 (c) resume the general wikilink/reciprocal-link sweep pattern from passes 1-7 now
 that the graph is much larger.
+
+## Pass 12: deep dive on DTCC (2026-07-01, user-directed)
+
+User asked for a deeper loop specifically on DTCC (Depository Trust & Clearing
+Corporation), which pass 9 had only scaffolded as a bare member stub. Researched
+via `finos.org` sitemap search + GitHub API/search — found a real, well-documented
+FINOS↔DTCC relationship: the annual **Innovate.DTCC AI-Powered Hackathon**
+(DTCC-organized, FINOS-partnered):
+
+- **2025 edition** (Feb 3–7): DTCC + FINOS + [[Broadridge]] (new minimal company
+  stub — not a FINOS member, but a named hackathon co-partner). Teams used DTCC's
+  AI Sandbox + FINOS GitHub; winners got FINOS funding to open-source their work.
+  Named DTCC person: Johnna Powell (opening remarks). Winning team "Cyber Third
+  Eye" (DTCC/Standard Chartered/Codincity/DevRel Talent, $75K) — did NOT scaffold
+  entities for these one-off team members, to stay scoped to DTCC itself rather
+  than the whole hackathon ecosystem.
+- **2026 edition**: [[Matthew Bain]] (CALM lead maintainer) personally seeded
+  FINOS/CALM hackathon participation (architecture-as-code issue #2050) — added
+  this as a new, reciprocal edge on [[Matthew Bain]], [[Architecture as Code]],
+  and [[Depository Trust & Clearing Corporation]] (three-way cross-link).
+- Hackathon winners present at FINOS AI Readiness SIG meetings afterward — noted
+  but did NOT create an "AI Readiness SIG" entity (distinct from the existing
+  AI Governance Framework and Open Source Readiness Initiative entities) since
+  that's outside this pass's DTCC scope. **Queued**: scaffold an AI Readiness SIG
+  organization entity in a future pass if it recurs as a hub for more facts.
+
+Verified after this pass: graph integrity clean (see verification command in
+CLAUDE.md workflow), no dangling links, no duplicate titles.
