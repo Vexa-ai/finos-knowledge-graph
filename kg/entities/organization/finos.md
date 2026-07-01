@@ -55,8 +55,11 @@ to collaboratively build open technologies and standards.
   [[a11y Theme Builder]], [[Fluxnova]], [[OpenGRIS]], [[Vuu]],
   [[kdb+ Working Group]], [[TRAC DAP]], [[Open Source Readiness Initiative]],
   [[Financial Objects Program]], [[Open RegTech SIG]], [[InnerSource SIG]],
-  [[Zenith]], [[Fin-OCR]], [[Emerging Technologies SIG]]. Many smaller/meta repos
-  (juju operators, branding, blueprints) omitted as not distinct projects.
+  [[Zenith]], [[Fin-OCR]], [[Emerging Technologies SIG]], [[AI Readiness SIG]]
+  (co-chaired by [[Colin Eberhardt]]/[[Scott Logic]], [[Ian Micallef]]/[[Citi]],
+  [[Madhu Coimbatore]]/[[Morgan Stanley]]; incubated the AI Governance Framework).
+  Many smaller/meta repos (juju operators, branding, blueprints) omitted as not
+  distinct projects.
 
 GitHub org: https://github.com/finos
 

@@ -251,3 +251,29 @@ Alliance, ISDA, ISLA, Mifos, Mojaloop Foundation, OpenFinity, OpenUK, Regtech
 Association, Scion Association) — these are mostly fine to leave as bare
 member-tier stubs; diminishing returns on further fetching. Also still queued:
 AI Readiness SIG organization entity (flagged in pass 12).
+
+## Pass 16: AI Readiness SIG entity + 3 new people (2026-07-01)
+
+Company-stub descriptions were hitting diminishing returns, so switched to
+closing the AI Readiness SIG gap flagged since pass 12 (DTCC deep dive) —
+a genuinely different, higher-value class than squeezing more stub text.
+
+Fetched `finos/ai-readiness`'s README, which names three co-chairs with real
+company affiliations — none previously in the graph. Created:
+- [[AI Readiness SIG]] organization entity (61 stars, CC-BY-4.0,
+  finos.org/ai-readiness) — incubated the [[AI Governance Framework]] in its
+  first year before that spun out as its own project (added this reciprocal
+  note to AI Governance Framework's entity too).
+- Three new people, each linked to their (pre-existing) employer company:
+  [[Colin Eberhardt]] (CTO, [[Scott Logic]]), [[Ian Micallef]] (ICG Head of
+  Developer Engineering, [[Citi]]), [[Madhu Coimbatore]] (Head of Firmwide AI
+  Development Platform, [[Morgan Stanley]]).
+- Reciprocal employer-side mentions added to Scott Logic, Citi, and Morgan
+  Stanley's company entities.
+- Updated `organization/finos.md`'s projects list to include AI Readiness SIG
+  with its co-chairs, and fixed the stale "this graph doesn't yet have an AI
+  Readiness SIG entity" note on `company/dtcc.md` (from pass 12) now that it
+  does, wikilinking it properly.
+
+This closes the last open thread from the DTCC deep dive (pass 12). Verified
+graph integrity clean after this pass (see verification command below).

@@ -27,9 +27,8 @@ FINOS (and [[Broadridge]]):
   finos/architecture-as-code issue #2050 with CALM-based challenge ideas across
   7 hackathon business tracks (AI-powered architecture review agents,
   CALM-driven DevSecOps pipeline generation, control-effectiveness scoring).
-  Hackathon winner presentations are given at subsequent FINOS AI Readiness SIG
-  meetings (e.g. issue #150) — this graph doesn't yet have an AI Readiness SIG
-  entity; see `kg/EXPLORATION_LOG.md`.
+  Hackathon winner presentations are given at subsequent FINOS
+  [[AI Readiness SIG]] meetings (e.g. issue #150).
 
 Source: https://www.finos.org/members,
 https://www.finos.org/blog/ai-strategic-initiative-series-innovate-dtcc-ai-hackathon,
