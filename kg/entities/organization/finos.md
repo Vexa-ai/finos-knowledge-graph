@@ -31,9 +31,17 @@ to collaboratively build open technologies and standards.
   [[GitLab]], [[Here]], [[Hedera]], [[HITACHI]], [[JUXT]], [[Kosli]], [[KPMG]],
   [[Moderne]], [[Octopus Deploy]], [[Point72]], [[Provectus]], [[Regnosys]],
   [[Scott Logic]], [[State Street]], [[Summit58]], [[Syntasso]], [[Temporal]],
-  [[tetrate]], [[Tokenovate]], [[Trade Header]]. Associate tier (~23 orgs,
-  several universities/industry associations rather than corporations) is
-  queued — see `kg/EXPLORATION_LOG.md` for the in-progress roster expansion.
+  [[tetrate]], [[Tokenovate]], [[Trade Header]]. Associate (several
+  universities/industry associations rather than corporations):
+  [[ACTUS]], [[Alliance for Innovative Regulation]], [[AlmaLinux]], [[Ayodo]],
+  [[Columbia University]], [[Canadian Regtech Association]],
+  [[Data Foundation]], [[The Digital Dollar Project]], [[EDM Council]],
+  [[ESOP]], [[FIX Trading Community]], [[InnerSource Commons]],
+  [[Interledger Foundation]], [[InterWork Alliance]], [[ISDA]], [[ISLA]],
+  [[Mifos]], [[Mojaloop Foundation]], [[OpenFinity]], [[OpenUK]],
+  [[Regtech Association]], [[Scion Association]], [[Yeshiva University]].
+  Full ~103-entity roster scaffolded as of 2026-07-01 — see
+  `kg/EXPLORATION_LOG.md` for provenance.
 - **Staff** — [[Gabriele Columbro]] (founding Executive Director), [[Rob Moffat]]
   (Senior Technical Architect, FDC3), [[Maurizio Pillitu]] (CTO), [[Tosha Ellison]]
   (Strategic Advisor, ex-COO/Director of Member Success), [[Juan Estrella]] (Barcelona).

@@ -109,3 +109,39 @@ Silver tier, replacing the "dozens more, e.g." placeholder.
 
 Company entity count: 80 (up from 46). Still queued — **Associate tier**
 (~23 orgs; see the list above) is the last remaining tier.
+
+## Pass 11: FINOS Associate-tier member companies — roster complete (2026-07-01)
+
+Scaffolded all 23 Associate-tier entries (ACTUS, Alliance for Innovative
+Regulation, AlmaLinux, Ayodo, Columbia University, Canadian Regtech Association,
+Data Foundation, The Digital Dollar Project, EDM Council, ESOP, FIX Trading
+Community, InnerSource Commons, Interledger Foundation, InterWork Alliance,
+ISDA, ISLA, Mifos, Mojaloop Foundation, OpenFinity, OpenUK, Regtech Association,
+Scion Association, Yeshiva University) as minimal grounded stubs
+(`member_tier: Associate` + Source). Several are universities/nonprofits/trade
+associations rather than corporations — noted honestly in each body rather than
+mislabeled. Along the way, fixed a plain-text "Columbia University" mention in
+[[Tim Paine]]'s entity to a proper wikilink (he's an adjunct professor there),
+now resolving to the new entity.
+
+Updated `organization/finos.md`'s roster bullet to name and wikilink the
+complete Associate tier, finishing the full Platinum→Gold→Silver→Associate
+roster expansion started in pass 9.
+
+**This closes out the FINOS member-roster expansion thread**: 103 company
+entities (up from 20 at the start), all ~80 official FINOS members scaffolded
+with tier + source, plus the 5 pre-existing non-member companies (Capgemini,
+Clovyr, CompliLedger, IRS, Prospective Co.) correctly left untagged. Verified
+0 dangling wikilinks, 0 duplicate titles after this pass.
+
+Next open thread for a future pass: the graph currently has no other systematic
+gap queued. Candidates to scope next: (a) enrich the new company stubs with a
+real one-line description of what each org does (most are currently
+placeholder "[[FINOS]] X member." with no company description — grounded via
+a company-website/GitHub-org lookup pass, similar to the earlier project-stub
+GitHub-API enrichment); (b) cross-check whether any TOC/candidate/contributor's
+employer is now a scaffolded member company that could gain a reciprocal
+person↔company link (e.g. do any newly added Associate/Silver members already
+appear as an employer elsewhere in the graph — spot check before assuming);
+(c) resume the general wikilink/reciprocal-link sweep pattern from passes 1-7 now
+that the graph is much larger.
