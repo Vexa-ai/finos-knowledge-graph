@@ -225,3 +225,29 @@ associations without an easily-fetchable homepage description; a future pass
 should fetch what it can and leave the rest as bare member-tier stubs rather
 than force a description. Also still queued: AI Readiness SIG organization
 entity (flagged in pass 12).
+
+## Pass 15: more company-stub descriptions, careful skip on ambiguous domain (2026-07-01)
+
+Enriched 11 more bare stubs with real one-line descriptions (homepage meta
+descriptions, not invented): Adaptive, Commonwealth Bank of Australia, FossID,
+interop.io, Moderne, Provectus, tetrate, Tokenovate, Trade Header, Kosli,
+AlmaLinux (noted as a nonprofit-stewarded distro, not a corporation).
+
+**Deliberately skipped** Container Solutions, ControlPlane, and Regnosys this
+pass — `container-solutions.com`/`control-plane.io`/`regnosys.com` didn't
+return usable content, and a plausible-looking `controlplane.com` hit
+described an unrelated PaaS product (not the FINOS Silver member, which is a
+Kubernetes/cloud-native security consultancy at control-plane.io) — rather
+than risk misattributing a different company's description, left these three
+as bare stubs. A future pass could retry with a different fetch method.
+
+**Remaining bare stubs (~16)**: BrightQuery, Artian, BMO, Container Solutions,
+ControlPlane, Crafty Penguins, elevenai, Elgin White, EQTY Lab, JUXT, Regnosys,
+Summit58, Syntasso, and the Associate-tier trade associations/nonprofits
+(ACTUS, Alliance for Innovative Regulation, Ayodo, Canadian Regtech
+Association, Data Foundation, The Digital Dollar Project, EDM Council, ESOP,
+FIX Trading Community, InnerSource Commons, Interledger Foundation, InterWork
+Alliance, ISDA, ISLA, Mifos, Mojaloop Foundation, OpenFinity, OpenUK, Regtech
+Association, Scion Association) — these are mostly fine to leave as bare
+member-tier stubs; diminishing returns on further fetching. Also still queued:
+AI Readiness SIG organization entity (flagged in pass 12).

@@ -5,6 +5,8 @@ title: AlmaLinux
 member_tier: Associate
 ---
 
-[[FINOS]] Associate member.
+Community-driven, RHEL-compatible enterprise Linux distribution, stewarded by
+the AlmaLinux OS Foundation (a nonprofit, not a corporation). [[FINOS]]
+Associate member.
 
 Source: https://www.finos.org/members

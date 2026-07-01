@@ -5,6 +5,7 @@ title: Kosli
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Automates SDLC governance for (AI-assisted) software delivery in regulated
+enterprises. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.kosli.com

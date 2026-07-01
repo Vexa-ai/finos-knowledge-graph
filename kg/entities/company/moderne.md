@@ -5,6 +5,7 @@ title: Moderne
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Automated, large-scale code-remediation platform — finds and fixes defects
+across an entire codebase at once. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.moderne.io

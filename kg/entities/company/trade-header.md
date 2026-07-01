@@ -5,6 +5,7 @@ title: Trade Header
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Financial-data-standards integration and software consultancy (capital
+markets, payments — CDM, FpML, FIX, ISO 20022). [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://tradeheader.com
