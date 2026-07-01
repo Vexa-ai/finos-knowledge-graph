@@ -12,8 +12,21 @@ to collaboratively build open technologies and standards.
 
 - **Governing Board** — strategic oversight.
 - **[[Technical Oversight Committee]]** (TOC) — technical direction and project governance.
-- **Member companies** — tiered (Platinum, Gold, Silver, Associate), including
-  [[JPMC]], [[Morgan Stanley]], [[Citi]], and Microsoft.
+- **Member companies** — tiered (Platinum, Gold, Silver, Associate), ~80 total per
+  the official roster (2026-07-01). Platinum: [[Bank of America Securities]],
+  [[Citi]], [[Fidelity]], [[Goldman Sachs]], [[JPMC]] (listed as "J.P. Morgan"),
+  [[Microsoft]], [[Morgan Stanley]], [[Nvidia]], [[Royal Bank of Canada]], [[TD]],
+  [[UBS]]. Gold: [[Accenture]], [[American Express]], [[Ant Group]], [[AXA]],
+  [[BlackRock]], [[BrightQuery]], [[Capital One]], [[Chainguard]],
+  [[Deutsche Bank]], [[Depository Trust & Clearing Corporation]],
+  [[Google Cloud]], [[interop.io]],
+  [[Japan Securities Clearing Corporation]], [[Lloyds Banking Group]],
+  [[London Stock Exchange Group]], [[MariaDB]], [[Moody's]], [[NatWest Group]]
+  (listed as "NatWest"), [[Oracle]], [[Red Hat]], [[S&P Global]], [[Sonatype]],
+  [[Symphony]], [[Thoughtworks]], [[Tradeweb]], [[Wellington Management]]. Silver
+  and Associate tiers (dozens more, e.g. [[AWS]], [[G-Research]], [[GitLab]],
+  [[Point72]]) are being scaffolded incrementally — see
+  `kg/EXPLORATION_LOG.md` for the in-progress roster expansion.
 - **Staff** — [[Gabriele Columbro]] (founding Executive Director), [[Rob Moffat]]
   (Senior Technical Architect, FDC3), [[Maurizio Pillitu]] (CTO), [[Tosha Ellison]]
   (Strategic Advisor, ex-COO/Director of Member Success), [[Juan Estrella]] (Barcelona).

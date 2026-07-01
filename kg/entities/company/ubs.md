@@ -2,6 +2,9 @@
 type: company
 id: ubs
 title: UBS
+member_tier: Platinum
 ---
 
-[[FINOS]] member company. Employer of TOC member [[Chris Twiner]].
+[[FINOS]] Platinum member. Employer of TOC member [[Chris Twiner]].
+
+Source: https://www.finos.org/members

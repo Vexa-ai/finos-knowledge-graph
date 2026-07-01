@@ -2,6 +2,9 @@
 type: company
 id: capital-one
 title: Capital One
+member_tier: Gold
 ---
 
-[[FINOS]] member company. Employer of TOC member [[Gabor Liptak]].
+[[FINOS]] Gold member. Employer of TOC member [[Gabor Liptak]].
+
+Source: https://www.finos.org/members
