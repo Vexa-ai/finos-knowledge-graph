@@ -5,6 +5,7 @@ title: Tradeweb
 member_tier: Gold
 ---
 
-[[FINOS]] Gold member.
+Electronic marketplace for fixed income, derivatives, and ETFs. [[FINOS]] Gold
+member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.tradeweb.com

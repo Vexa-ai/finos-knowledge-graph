@@ -5,6 +5,6 @@ title: MariaDB
 member_tier: Gold
 ---
 
-[[FINOS]] Gold member.
+Enterprise open-source relational database company. [[FINOS]] Gold member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://mariadb.com

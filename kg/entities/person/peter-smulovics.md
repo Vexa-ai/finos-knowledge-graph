@@ -11,8 +11,8 @@ Works at [[Morgan Stanley]]. GitHub: @psmulovics
 
 Executive Director at [[Morgan Stanley]], leading Windows and .NET development
 practices and spatial computing / metaverse development practices. Joined Morgan
-Stanley after a decade-plus at Microsoft, where he worked on .NET, C#, Azure, Visual
-Studio, SQL Server, Dynamics, and HoloLens.
+Stanley after a decade-plus at [[Microsoft]], where he worked on .NET, C#, Azure,
+Visual Studio, SQL Server, Dynamics, and HoloLens.
 
 ## FINOS involvement
 

@@ -5,6 +5,7 @@ title: Oracle
 member_tier: Gold
 ---
 
-[[FINOS]] Gold member.
+Enterprise software and cloud infrastructure company (databases, applications,
+cloud computing). [[FINOS]] Gold member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.oracle.com

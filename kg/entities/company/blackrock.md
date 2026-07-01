@@ -5,6 +5,6 @@ title: BlackRock
 member_tier: Gold
 ---
 
-[[FINOS]] Gold member.
+Global investment management / asset management firm. [[FINOS]] Gold member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.blackrock.com

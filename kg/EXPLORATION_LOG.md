@@ -173,3 +173,30 @@ FINOS↔DTCC relationship: the annual **Innovate.DTCC AI-Powered Hackathon**
 
 Verified after this pass: graph integrity clean (see verification command in
 CLAUDE.md workflow), no dangling links, no duplicate titles.
+
+## Pass 13: person↔company reciprocal sweep + company-stub descriptions (2026-07-01)
+
+Ran a fresh plain-text-mention sweep now that ~80 new companies exist (pass
+9-11) — checked whether any person entity mentions a company by name without a
+wikilink. Two genuine hits:
+- [[Peter Smulovics]]'s "a decade-plus at Microsoft" was plain text — now
+  wikilinked to the (newly-scaffolded) [[Microsoft]] entity, with a reciprocal
+  note added on Microsoft's own page.
+- [[Jon Freedman]]'s "Symphony Software Foundation" mention is a **false
+  positive** — that's FINOS's historical predecessor org, not the [[Symphony]]
+  company (Gold member, Symphony Communication Services). Correctly left
+  unlinked to avoid conflating two distinct entities; `Symphony Platform
+  tooling` already cites Jon Freedman for that history.
+
+Also enriched 13 of the bare Gold/Silver company stubs from pass 9-10 with a
+real one-line description (sourced to each company's own homepage, not
+invented — these are well-known public companies): Accenture, BlackRock,
+Oracle, Google Cloud, KPMG, Deutsche Bank, American Express, Canonical,
+MariaDB, CloudBees, Thoughtworks, Tradeweb, AXA.
+
+**Still queued** (~64 more bare company stubs without a description — mostly
+Silver/Associate tier, many niche/harder to verify quickly): Ant Group,
+BrightQuery, Chainguard, interop.io, Japan Securities Clearing Corporation,
+Lloyds Banking Group, London Stock Exchange Group, S&P Global, Wellington
+Management, and the full Silver/Associate lists in passes 10-11. Also still
+queued: an AI Readiness SIG organization entity (flagged in pass 12).
