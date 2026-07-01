@@ -5,6 +5,7 @@ title: Octopus Deploy
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Continuous-deployment / release-automation software for multi-cloud, hybrid,
+and on-premises environments. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://octopus.com

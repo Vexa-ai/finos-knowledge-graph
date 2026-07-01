@@ -5,6 +5,7 @@ title: Nvidia
 member_tier: Platinum
 ---
 
-[[FINOS]] Platinum member.
+GPU maker; drives AI, HPC, gaming, and autonomous-vehicle computing. [[FINOS]]
+Platinum member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.nvidia.com

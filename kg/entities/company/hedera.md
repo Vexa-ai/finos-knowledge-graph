@@ -5,6 +5,7 @@ title: Hedera
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Public distributed-ledger (DLT) platform for building secure, compliant
+decentralized applications. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.hedera.com

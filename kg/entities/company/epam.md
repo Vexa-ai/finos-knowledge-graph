@@ -5,6 +5,6 @@ title: Epam
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Global digital/software engineering services company. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.epam.com

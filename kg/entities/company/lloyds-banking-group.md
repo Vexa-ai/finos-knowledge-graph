@@ -5,6 +5,6 @@ title: Lloyds Banking Group
 member_tier: Gold
 ---
 
-[[FINOS]] Gold member.
+UK-based retail and commercial banking group. [[FINOS]] Gold member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.lloydsbankinggroup.com

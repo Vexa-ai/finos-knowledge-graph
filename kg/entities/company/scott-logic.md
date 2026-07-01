@@ -5,6 +5,6 @@ title: Scott Logic
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+UK-based bespoke software engineering consultancy. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.scottlogic.com

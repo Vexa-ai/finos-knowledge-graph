@@ -5,6 +5,7 @@ title: Fidelity
 member_tier: Platinum
 ---
 
-[[FINOS]] Platinum member.
+Global financial services / asset management and brokerage company. [[FINOS]]
+Platinum member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.fidelity.com

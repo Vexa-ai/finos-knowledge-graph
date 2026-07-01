@@ -200,3 +200,28 @@ BrightQuery, Chainguard, interop.io, Japan Securities Clearing Corporation,
 Lloyds Banking Group, London Stock Exchange Group, S&P Global, Wellington
 Management, and the full Silver/Associate lists in passes 10-11. Also still
 queued: an AI Readiness SIG organization entity (flagged in pass 12).
+
+## Pass 14: more company-stub descriptions (2026-07-01)
+
+Enriched 20 more bare stubs with real one-line descriptions (sourced to each
+company's homepage meta description or well-known public facts, not invented):
+Nvidia, Fidelity, Bank of America Securities, Lloyds Banking Group, London
+Stock Exchange Group (LSEG), S&P Global, Wellington Management, Hedera, Epam,
+Chainguard, Temporal, Scott Logic, State Street, Octopus Deploy, Here (HERE
+Technologies), HITACHI, dltHub, Bank of New York (BNY Mellon), Ant Group,
+Japan Securities Clearing Corporation.
+
+**Remaining bare stubs (~27, mostly smaller/harder-to-verify Silver/Associate
+members)**: BrightQuery, interop.io, Adaptive, Artian, BMO,
+Commonwealth Bank of Australia, Container Solutions, ControlPlane,
+Crafty Penguins, elevenai, Elgin White, EQTY Lab, FossID, JUXT, Kosli, Moderne,
+Provectus, Regnosys, Summit58, Syntasso, tetrate, Tokenovate, Trade Header,
+ACTUS, Alliance for Innovative Regulation, AlmaLinux, Ayodo, Canadian Regtech
+Association, Data Foundation, The Digital Dollar Project, EDM Council, ESOP,
+FIX Trading Community, InnerSource Commons, Interledger Foundation, InterWork
+Alliance, ISDA, ISLA, Mifos, Mojaloop Foundation, OpenFinity, OpenUK, Regtech
+Association, Scion Association — many of these are small/niche vendors or
+associations without an easily-fetchable homepage description; a future pass
+should fetch what it can and leave the rest as bare member-tier stubs rather
+than force a description. Also still queued: AI Readiness SIG organization
+entity (flagged in pass 12).

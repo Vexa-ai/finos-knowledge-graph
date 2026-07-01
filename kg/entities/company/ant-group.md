@@ -5,6 +5,7 @@ title: Ant Group
 member_tier: Gold
 ---
 
-[[FINOS]] Gold member.
+Chinese fintech company (Alibaba affiliate) — digital payments (Alipay) and
+financial technology. [[FINOS]] Gold member.
 
 Source: https://www.finos.org/members

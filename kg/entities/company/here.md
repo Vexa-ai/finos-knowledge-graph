@@ -5,6 +5,7 @@ title: Here
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+HERE Technologies — global map data, routing APIs, and location-intelligence
+platform. [[FINOS]] Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.here.com

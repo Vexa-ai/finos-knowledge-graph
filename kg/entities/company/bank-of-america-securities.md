@@ -5,6 +5,7 @@ title: Bank of America Securities
 member_tier: Platinum
 ---
 
-[[FINOS]] Platinum member.
+Investment banking and global markets division of Bank of America. [[FINOS]]
+Platinum member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://www.bofaml.com

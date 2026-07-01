@@ -5,6 +5,7 @@ title: Temporal
 member_tier: Silver
 ---
 
-[[FINOS]] Silver member.
+Open-source durable-execution / workflow-orchestration platform. [[FINOS]]
+Silver member.
 
-Source: https://www.finos.org/members
+Source: https://www.finos.org/members, https://temporal.io
