@@ -23,10 +23,17 @@ to collaboratively build open technologies and standards.
   [[Japan Securities Clearing Corporation]], [[Lloyds Banking Group]],
   [[London Stock Exchange Group]], [[MariaDB]], [[Moody's]], [[NatWest Group]]
   (listed as "NatWest"), [[Oracle]], [[Red Hat]], [[S&P Global]], [[Sonatype]],
-  [[Symphony]], [[Thoughtworks]], [[Tradeweb]], [[Wellington Management]]. Silver
-  and Associate tiers (dozens more, e.g. [[AWS]], [[G-Research]], [[GitLab]],
-  [[Point72]]) are being scaffolded incrementally — see
-  `kg/EXPLORATION_LOG.md` for the in-progress roster expansion.
+  [[Symphony]], [[Thoughtworks]], [[Tradeweb]], [[Wellington Management]]. Silver:
+  [[Adaptive]], [[Artian]], [[AWS]], [[BMO]], [[Bank of New York]], [[Canonical]],
+  [[CloudBees]], [[Commonwealth Bank of Australia]], [[Container Solutions]],
+  [[ControlPlane]], [[Crafty Penguins]], [[dltHub]], [[elevenai]],
+  [[Elgin White]], [[Epam]], [[EQTY Lab]], [[FossID]], [[G-Research]],
+  [[GitLab]], [[Here]], [[Hedera]], [[HITACHI]], [[JUXT]], [[Kosli]], [[KPMG]],
+  [[Moderne]], [[Octopus Deploy]], [[Point72]], [[Provectus]], [[Regnosys]],
+  [[Scott Logic]], [[State Street]], [[Summit58]], [[Syntasso]], [[Temporal]],
+  [[tetrate]], [[Tokenovate]], [[Trade Header]]. Associate tier (~23 orgs,
+  several universities/industry associations rather than corporations) is
+  queued — see `kg/EXPLORATION_LOG.md` for the in-progress roster expansion.
 - **Staff** — [[Gabriele Columbro]] (founding Executive Director), [[Rob Moffat]]
   (Senior Technical Architect, FDC3), [[Maurizio Pillitu]] (CTO), [[Tosha Ellison]]
   (Strategic Advisor, ex-COO/Director of Member Success), [[Juan Estrella]] (Barcelona).

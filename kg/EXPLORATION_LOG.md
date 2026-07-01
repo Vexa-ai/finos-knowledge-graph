@@ -93,3 +93,19 @@ University.
 
 Full roster snapshot (2026-07-01) is in this log for future reference — no need
 to re-fetch finos.org/members unless checking for roster changes.
+
+## Pass 10: FINOS Silver-tier member companies (2026-07-01)
+
+Scaffolded all missing Silver-tier companies (34 new: Adaptive, Artian, BMO,
+Bank of New York, Canonical, CloudBees, Commonwealth Bank of Australia,
+Container Solutions, ControlPlane, Crafty Penguins, dltHub, elevenai, Elgin
+White, Epam, EQTY Lab, FossID, Here, Hedera, HITACHI, JUXT, Kosli, KPMG,
+Moderne, Octopus Deploy, Provectus, Regnosys, Scott Logic, State Street,
+Summit58, Syntasso, Temporal, tetrate, Tokenovate, Trade Header) as minimal
+grounded stubs (frontmatter + `member_tier: Silver` + Source). AWS, G-Research,
+GitLab, Point72 already existed and are unchanged (already tagged in pass 9).
+Updated `organization/finos.md`'s roster bullet to name and wikilink the full
+Silver tier, replacing the "dozens more, e.g." placeholder.
+
+Company entity count: 80 (up from 46). Still queued — **Associate tier**
+(~23 orgs; see the list above) is the last remaining tier.
